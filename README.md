@@ -40,6 +40,10 @@ Interactive-Stopwatch/
 1. Download or clone the repository.
 2. Open `index.html` in any modern web browser.
 3. Start using the stopwatch.
+  
+ ## Live Demo
+  
+  https://nazeraiffath.github.io/Interactive-Stopwatch-Web-Application/
 
 ## Author
 
